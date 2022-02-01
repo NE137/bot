@@ -32,7 +32,7 @@
             "name": "Version",
             "description": "The version of the bot to use.",
             "env_variable": "VERSION",
-            "default_value": "v3.1.1",
+            "default_value": "v3.1.3",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|string|max:20"
